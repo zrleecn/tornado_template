@@ -1,0 +1,51 @@
+[D 181027 22:06:16 selector_events:65] Using selector: EpollSelector
+[I 181027 22:06:36 autoreload:199] server.py modified; restarting server
+[D 181027 22:06:37 selector_events:65] Using selector: EpollSelector
+[I 181027 22:07:20 autoreload:199] /home/zrlee/PycharmProjects/ihome/setting.py modified; restarting server
+[D 181027 22:07:20 selector_events:65] Using selector: EpollSelector
+[I 181027 22:07:39 autoreload:199] server.py modified; restarting server
+[D 181027 22:07:39 selector_events:65] Using selector: EpollSelector
+[I 181027 22:09:01 autoreload:199] server.py modified; restarting server
+[D 181027 22:09:01 selector_events:65] Using selector: EpollSelector
+[I 181027 22:16:03 autoreload:199] /home/zrlee/PycharmProjects/ihome/urls.py modified; restarting server
+[D 181027 22:16:03 selector_events:65] Using selector: EpollSelector
+[W 181027 22:16:08 web:2162] 404 GET / (127.0.0.1) 1.55ms
+[D 181027 22:16:51 selector_events:65] Using selector: EpollSelector
+[W 181027 22:16:53 web:2162] 404 GET / (127.0.0.1) 1.96ms
+[I 181027 22:17:33 autoreload:199] /home/zrlee/PycharmProjects/ihome/handler/BaseHandler.py modified; restarting server
+[D 181027 22:17:33 selector_events:65] Using selector: EpollSelector
+[W 181027 22:17:35 web:2162] 404 GET / (127.0.0.1) 1.57ms
+[W 181027 22:17:36 web:2162] 404 GET / (127.0.0.1) 0.61ms
+[W 181027 22:17:37 web:2162] 404 GET / (127.0.0.1) 0.60ms
+[W 181027 22:17:37 web:2162] 404 GET / (127.0.0.1) 0.60ms
+[W 181027 22:17:37 web:2162] 404 GET / (127.0.0.1) 0.60ms
+[W 181027 22:17:39 web:2162] 404 GET / (127.0.0.1) 0.70ms
+[I 181027 22:18:32 autoreload:199] /home/zrlee/PycharmProjects/ihome/urls.py modified; restarting server
+[D 181027 22:18:32 selector_events:65] Using selector: EpollSelector
+[I 181027 22:18:36 web:2162] 200 GET / (127.0.0.1) 1.61ms
+[I 181027 22:19:27 autoreload:199] /home/zrlee/PycharmProjects/ihome/handler/TestHandler.py modified; restarting server
+[D 181027 22:19:28 selector_events:65] Using selector: EpollSelector
+[I 181027 22:19:36 autoreload:199] /home/zrlee/PycharmProjects/ihome/urls.py modified; restarting server
+[D 181027 22:19:36 selector_events:65] Using selector: EpollSelector
+[W 181027 22:19:39 web:2162] 404 GET / (127.0.0.1) 1.58ms
+[I 181027 22:20:19 autoreload:199] /home/zrlee/PycharmProjects/ihome/handler/TestHandler.py modified; restarting server
+[D 181027 22:20:19 selector_events:65] Using selector: EpollSelector
+[W 181027 22:20:21 web:2162] 404 GET / (127.0.0.1) 1.55ms
+[W 181027 22:20:22 web:2162] 404 GET / (127.0.0.1) 0.65ms
+[W 181027 22:20:22 web:2162] 404 GET / (127.0.0.1) 0.63ms
+[W 181027 22:20:22 web:2162] 404 GET / (127.0.0.1) 0.58ms
+[W 181027 22:20:23 web:2162] 404 GET / (127.0.0.1) 0.60ms
+[W 181027 22:20:23 web:2162] 404 GET / (127.0.0.1) 0.58ms
+[W 181027 22:20:23 web:2162] 404 GET / (127.0.0.1) 0.67ms
+[I 181027 22:22:40 autoreload:199] /home/zrlee/PycharmProjects/ihome/handler/TestHandler.py modified; restarting server
+[D 181027 22:22:40 selector_events:65] Using selector: EpollSelector
+[D 181027 22:22:42 selector_events:65] Using selector: EpollSelector
+[W 181027 22:22:44 web:2162] 404 GET / (127.0.0.1) 1.67ms
+[W 181027 22:22:46 web:2162] 404 GET / (127.0.0.1) 0.93ms
+[I 181027 22:38:09 autoreload:199] /home/zrlee/PycharmProjects/ihome/urls.py modified; restarting server
+[D 181027 22:38:10 selector_events:65] Using selector: EpollSelector
+[I 181027 22:38:44 autoreload:199] /home/zrlee/PycharmProjects/ihome/urls.py modified; restarting server
+[D 181027 22:38:44 selector_events:65] Using selector: EpollSelector
+[I 181027 22:38:45 web:2162] 200 GET / (127.0.0.1) 0.96ms
+[I 181027 22:40:31 autoreload:199] /home/zrlee/PycharmProjects/ihome/urls.py modified; restarting server
+[D 181027 22:40:31 selector_events:65] Using selector: EpollSelector
